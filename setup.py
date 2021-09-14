@@ -14,7 +14,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     license='MIT License',
-    description='An django module that allows to confgiure a global or model based database table prefix',
+    description='A django module that allows to configure a global or model based database table prefix',
     long_description=README,
     long_description_content_type='text/markdown',
     url='https://github.com/nezhar/django-model-prefix',
