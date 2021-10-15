@@ -3,3 +3,4 @@
 build/**
 venv/**
 dist/**
+django_model_prefix.egg-info/**
