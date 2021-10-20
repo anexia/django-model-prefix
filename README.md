@@ -10,7 +10,7 @@ Add model_prefix to your INSTALLED_APPS list. Make sure it is the first app in t
 
 ```python
 INSTALLED_APPS = [
-    'django_db_prefix',
+    'model_prefix',
     ...
 ]
 ```
