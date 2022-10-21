@@ -1,4 +1,7 @@
 # Django Model Prefix
+[![PyPI](https://badge.fury.io/py/django-model-prefix.svg)](https://pypi.org/project/django-model-prefix/)
+[![Test Status](https://github.com/anexia/django-model-prefix/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/anexia/django-model-prefix/actions/workflows/tests.yml)
+[![Codecov](https://codecov.io/gh/anexia/django-model-prefix/branch/main/graph/badge.svg)](https://codecov.io/gh/anexia/django-model-prefix)
 
 A Django package that adds a global or model based database table prefix
 
