@@ -7,7 +7,7 @@ A Django package that adds a global or model based database table prefix
 Install using pip:
 
 ```shell
-pip install git+https://github.com/anexia/django-model-prefix@main
+pip install django-model-prefix
 ```
 
 Add model_prefix to your INSTALLED_APPS list. Make sure it is the first app in the list
