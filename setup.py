@@ -17,7 +17,7 @@ setup(
     description='A django module that allows to configure a global or model based database table prefix',
     long_description=README,
     long_description_content_type='text/markdown',
-    url='https://github.com/nezhar/django-model-prefix',
+    url='https://github.com/anexia/django-model-prefix',
     author='Harald Nezbeda',
     author_email='hnezbeda@anexia-it.com',
     classifiers=[
