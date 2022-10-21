@@ -6,9 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1]
+### Changed
+- Updated pypi classifiers
+
 ## [1.0.0]
 ### Added
 - Initial Release
 
-[Unreleased]: https://github.com/anexia/django-model-prefix/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/anexia/django-model-prefix/compare/v1.0.1...HEAD
+[1.0.1]: https://pypi.org/project/django-model-prefix/1.0.1/
 [1.0.0]: https://pypi.org/project/django-model-prefix/1.0.0/
