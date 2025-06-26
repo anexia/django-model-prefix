@@ -5,6 +5,16 @@
 
 A Django package that adds a global or model based database table prefix
 
+## Compatibility Matrix
+
+This library should be compatible with the latest Django. For reference, here is a matrix showing the tested compatibility.
+
+| django-model-prefix Version | Django Versions | Python     |
+|-----------------------------|-----------------|------------|
+| 1.1                         | 4.2, 5.0, 5.1   | 3.9 - 3.13 |
+| 1.0                         | 3.2, 4.0, 4.1   | 3.7 - 3.10 |
+
+
 # Installation
 
 Install using pip:
